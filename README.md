@@ -21,7 +21,7 @@ or you can install it as an external SVN dependency:
 
 or checkout via SVN:
 
-   svn co https://svn.github.com:congow/sfChosenSelectPlugin.git plugins/sfChosenSelectPlugin
+    svn co https://svn.github.com:congow/sfChosenSelectPlugin.git plugins/sfChosenSelectPlugin
 
 Don't forget to enable it in your application ( ProjectConfiguration::setup() ):
 
